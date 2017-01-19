@@ -12,7 +12,14 @@ Thank you to [@raimondiand](https://twitter.com/raimondiand) for sharing a list 
 
 NOTE: if you wish to have your account removed from this list, please contact us at info@thinkingabout.eu
 
+#### License:
 
 This database (meps_full_list_with_twitter_accounts.csv) is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/
 
 Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
+
+#### Javascript format:
+You can find a Javascript version of this list (and the script that fetches the CSV and transforms it into a JavaScript file) here:
+
+https://github.com/marado/MEPsOnTwitter             (thanks to @marado). 
